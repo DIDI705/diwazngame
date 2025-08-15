@@ -1,3 +1,6 @@
+rem diwazn - credits
+rem Copyright © 2025 diwazn. All rights reserved.
+rem This script is for personal use only. Redistribution or commercial use without permission is prohibited.
 @echo off
 title Star Trek: Voyager Text Adventure
 
@@ -300,3 +303,4 @@ echo Goodbye!
 echo.
 pause
 exit
+
